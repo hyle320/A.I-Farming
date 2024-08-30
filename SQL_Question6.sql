@@ -1,0 +1,9 @@
+-- select * from lol_users;
+--21번
+-- select * from lol_users order by rating desc;
+--22번
+-- select * from lol_users order by join_date desc limit 1;
+--23번
+-- select * from lol_users order by region, rating desc;
+--24번
+-- select region, avg(rating) from lol_users group by region;
